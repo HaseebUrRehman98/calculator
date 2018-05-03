@@ -129,7 +129,7 @@ public class Calculator {
                 if(operatorCounter<1 || sign.equals(""))
                 {
                     sign=ActionComand;
-                    System.out.println(sign);
+                   
                 }
                 operatorCounter++;
                 flag = 1;
